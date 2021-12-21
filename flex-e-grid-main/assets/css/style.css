@@ -1,0 +1,12 @@
+body {
+  background-color: #1d232a;
+  font-family: "Open Sans", sans-serif;
+  color: #fefefe;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #15191c;
+}
